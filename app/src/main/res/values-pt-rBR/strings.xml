@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Meu App Android</string>
+    <string name="textViewText">Texto</string>
+    <string name="textViewEdit">Número</string>
+    <string name="textViewPassword">Senha</string>
+    <string name="editTextTextHint">Digite um texto curto</string>
+    <string name="editTextNumberHint">Digite um número inteiro</string>
+    <string name="editTextTextPasswordHint">Digite uma senha</string>
+    <string name="btnClear">Limpar</string>
+    <string name="checkChecked">Marcado</string>
+    <string name="checkUnchecked">Desmarcado</string>
+    <string name="radioLeft">Esquerda</string>
+    <string name="radioRight">Direita</string>
+    <string name="toggleOn">Ligado</string>
+    <string name="toggleOff">Desligado</string>
+    <string name="switchLeft">Esquerda</string>
+    <string name="switchRight">Direita</string>
+</resources>

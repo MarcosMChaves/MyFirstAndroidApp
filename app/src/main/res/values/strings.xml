@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MyFirstAndroidApp</string>
+    <string name="textViewText">Text</string>
+    <string name="textViewEdit">Number</string>
+    <string name="textViewPassword">Password</string>
+    <string name="editTextTextHint">Type a short text data</string>
+    <string name="editTextNumberHint">Type a integer number</string>
+    <string name="editTextTextPasswordHint">Type a Password</string>
+    <string name="btnClear">Clear</string>
+    <string name="checkChecked">Checked</string>
+    <string name="checkUnchecked">Unchecked</string>
+    <string name="radioLeft">Left</string>
+    <string name="radioRight">Right</string>
+    <string name="toggleOn">ON</string>
+    <string name="toggleOff">OFF</string>
+    <string name="switchLeft">Left</string>
+    <string name="switchRight">Right</string>
+</resources>
